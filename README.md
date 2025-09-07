@@ -16,7 +16,7 @@
 
 - 🗽 [API для онлайн сервис для сбора отзывов пользователей (разработка системы регистрации и аутентификации, прав доступа, работы с токеном, системы подтверждения через e-mail. ))](https://github.com/TinyTon123/api-yamdb).
     - *Стек:* `Python`, `Django`, `DRF`, `Simple JWT`, `SQLite`, `Pytest`
-- 🐈 [CI/CD Деплой сервиса для впечатлений от котиков]https://github.com/Nikita1Egoshin/kittygram_final).
+- 🐈 [CI/CD Деплой сервиса для впечатлений от котиков](https://github.com/Nikita1Egoshin/kittygram_final).
     - *Стек:* `Python`, `Django`, `DRF`, `Docker`, `PostgreSQL`, `Gunicorn`, `Nginx`, `GitHub Actions`
 - 📡 [API для онлайн-сервиса](https://github.com/Nikita1Egoshin/api-final-yatube)
     - *Стек:* `Python`, `Django`, `SQLite`, `Bootstrap`
